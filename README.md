@@ -2,6 +2,8 @@
 
 Aurora is a deep learning project focused on the recognition and classification of 3D objects. This repository contains the implementation details, dataset augmentation scripts, and relevant resources to facilitate understanding and replication of the work.
 
+[Read the paper](Aurora_paper.pdf)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
